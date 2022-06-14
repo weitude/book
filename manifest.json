@@ -5,7 +5,7 @@
     "background_color": "#49b1f5",
     "display": "standalone",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "/book/",
     "icons": [{
             "src": "/pwa/pwaicons/icon-72x72.png",
             "sizes": "72x72",
