@@ -48,7 +48,7 @@
       <link href="/book/manifest.json"/>
       <url>/book/manifest.json</url>
       
-        <content type="html"><![CDATA[{"name":"緯度書房","short_name":"緯度書房","theme_color":"#49b1f5","background_color":"#49b1f5","display":"standalone","scope":"/book/","start_url":"/book/","icons":[{"src":"pwa/pwaicons/icon-72x72.png","sizes":"72x72","type":"image/png"},{"src":"pwa/pwaicons/icon-96x96.png","sizes":"96x96","type":"image/png"},{"src":"pwa/pwaicons/icon-128x128.png","sizes":"128x128","type":"image/png"},{"src":"pwa/pwaicons/icon-144x144.png","sizes":"144x144","type":"image/png"},{"src":"pwa/pwaicons/icon-152x152.png","sizes":"152x152","type":"image/png"},{"src":"pwa/pwaicons/icon-192x192.png","sizes":"192x192","type":"image/png"},{"src":"pwa/pwaicons/icon-384x384.png","sizes":"384x384","type":"image/png"},{"src":"pwa/pwaicons/icon-512x512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
+        <content type="html"><![CDATA[{"name":"緯度書房","short_name":"緯度書房","theme_color":"#49b1f5","background_color":"#49b1f5","display":"standalone","scope":"/","start_url":"/","icons":[{"src":"pwa/pwaicons/icon-72x72.png","sizes":"72x72","type":"image/png"},{"src":"pwa/pwaicons/icon-96x96.png","sizes":"96x96","type":"image/png"},{"src":"pwa/pwaicons/icon-128x128.png","sizes":"128x128","type":"image/png"},{"src":"pwa/pwaicons/icon-144x144.png","sizes":"144x144","type":"image/png"},{"src":"pwa/pwaicons/icon-152x152.png","sizes":"152x152","type":"image/png"},{"src":"pwa/pwaicons/icon-192x192.png","sizes":"192x192","type":"image/png"},{"src":"pwa/pwaicons/icon-384x384.png","sizes":"384x384","type":"image/png"},{"src":"pwa/pwaicons/icon-512x512.png","sizes":"512x512","type":"image/png"}],"splash_pages":null}]]></content>
       
     </entry>
     
@@ -66,22 +66,22 @@
     
     
     <entry>
-      <title>About Me</title>
-      <link href="/book/about/index.html"/>
-      <url>/book/about/index.html</url>
+      <title>tags</title>
+      <link href="/book/tags/index.html"/>
+      <url>/book/tags/index.html</url>
       
-        <content type="html"><![CDATA[<p>呦！我叫林佳緯 #高雄 #INFJ-T</p><p>我不是強者，我只是一個想變強的人。</p><p>近期目標：雙財金 → 資工最強 Popper → UC Berkeley → Silicon Valley!</p><h3 id="興趣："><a href="#興趣：" class="headerlink" title="興趣："></a>興趣：</h3><ul><li><strong>音樂</strong>：The Chainsmokers &#x2F; NEFFEX &#x2F; Marshmello &#x2F; 周杰倫</li><li><strong>電影</strong>：天氣之子！（Marvel 趕快出新片好不！</li><li><strong>運動</strong>：桌球 &#x2F; 羽球 &#x2F; 長跑 &#x2F; 重訓 &#x2F; 腳踏車 &#x2F; <strong>Popping</strong></li><li><strong>美食</strong>：拉麵 &#x2F; 麻辣 &#x2F; 巧克力（反正極度重視食物 xD</li><li><strong>科技</strong>：剪片 &#x2F; 果粉 &#x2F; coding</li></ul>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>tags</title>
-      <link href="/book/tags/index.html"/>
-      <url>/book/tags/index.html</url>
+      <title>About Me</title>
+      <link href="/book/about/index.html"/>
+      <url>/book/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>呦！我叫林佳緯 #高雄 #INFJ-T</p><p>我不是強者，我只是一個想變強的人。</p><p>近期目標：雙財金 → 資工最強 Popper → UC Berkeley → Silicon Valley!</p><h3 id="興趣："><a href="#興趣：" class="headerlink" title="興趣："></a>興趣：</h3><ul><li><strong>音樂</strong>：The Chainsmokers &#x2F; NEFFEX &#x2F; Marshmello &#x2F; 周杰倫</li><li><strong>電影</strong>：天氣之子！（Marvel 趕快出新片好不！</li><li><strong>運動</strong>：桌球 &#x2F; 羽球 &#x2F; 長跑 &#x2F; 重訓 &#x2F; 腳踏車 &#x2F; <strong>Popping</strong></li><li><strong>美食</strong>：拉麵 &#x2F; 麻辣 &#x2F; 巧克力（反正極度重視食物 xD</li><li><strong>科技</strong>：剪片 &#x2F; 果粉 &#x2F; coding</li></ul>]]></content>
       
     </entry>
     
