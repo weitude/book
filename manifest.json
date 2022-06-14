@@ -4,8 +4,8 @@
     "theme_color": "#49b1f5",
     "background_color": "#49b1f5",
     "display": "standalone",
-    "scope": "/book/",
-    "start_url": "/book/",
+    "scope": "/",
+    "start_url": "/",
     "icons": [{
             "src": "pwa/pwaicons/icon-72x72.png",
             "sizes": "72x72",
