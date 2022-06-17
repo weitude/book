@@ -4,4 +4,7 @@ Allow: /archives/
 Allow: /tags/
 Allow: /categories/
 Allow: /about/
+
+Disallow: /pwa/
+
 Sitemap: https://weitude.github.io/book/sitemap.xml
