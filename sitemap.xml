@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://weitude.github.io/book/atomic-habits/</loc>
+    <loc>https://weitude.github.io/book/the-willpower-instinct/</loc>
     
     <lastmod>2022-06-19</lastmod>
     
@@ -11,9 +11,9 @@
   </url>
   
   <url>
-    <loc>https://weitude.github.io/book/the-willpower-instinct/</loc>
+    <loc>https://weitude.github.io/book/atomic-habits/</loc>
     
-    <lastmod>2022-06-16</lastmod>
+    <lastmod>2022-06-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
