@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://weitude.github.io/book/the-willpower-instinct/</loc>
+    <loc>https://weitude.github.io/book/leverage-reading/</loc>
     
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-06-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +13,16 @@
   <url>
     <loc>https://weitude.github.io/book/atomic-habits/</loc>
     
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-06-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://weitude.github.io/book/the-willpower-instinct/</loc>
+    
+    <lastmod>2022-06-20</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +58,7 @@
 
   <url>
     <loc>https://weitude.github.io/book</loc>
-    <lastmod>2022-06-19</lastmod>
+    <lastmod>2022-06-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
